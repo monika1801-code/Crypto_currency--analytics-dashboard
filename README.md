@@ -21,7 +21,10 @@ An interactive data analytics dashboard built using Python, Streamlit, and Plotl
 - CoinGecko API
 
 ## 📸 Dashboard Preview
-(Add your screenshot here)
+
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
+![Dashboard](dashboard3.png)
 
 ## ▶️ Run Locally
 
